@@ -1,3 +1,4 @@
+'''proto
 message ThaiProfile {
   required string role = 1; // Electrical engineer
   required Skills skills = 2;
@@ -11,8 +12,9 @@ message ThaiProfile {
   }
 
   message Projects {
-    required string automation = 1; // Sensor systems and motor drivers
-    required string robotics = 2; // Small scale actuator control
-    required string pcbs = 3; // Custom boards for prototypes
+    required string automation = 1; // Sensor systems and driver boards
+    required string robotics = 2; // Actuator control
+    required string pcbs = 3; // Custom boards
   }
 }
+
