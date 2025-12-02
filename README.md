@@ -1,4 +1,4 @@
-'''proto
+```protobuf
 message ThaiProfile {
   required string role = 1; // Electrical engineer
   required Skills skills = 2;
