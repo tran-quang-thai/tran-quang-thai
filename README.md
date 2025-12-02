@@ -5,7 +5,6 @@
 
 <br><br>
 
-```protobuf
 message YourName {
   required string name        = "Tên thật của bạn";
   required int32  age         = ??;                      // điền tuổi
