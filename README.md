@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Avatar tròn neon (tự động lấy từ GitHub) -->
-<img src="https://github.com/YOUR_USERNAME.png](https://scontent.fuih1-1.fna.fbcdn.net/v/t39.30808-6/587719938_1502015771060046_6050043083618683325_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE7n8x2YzEzxOBpdD4AHu9KJB4r5etmPKEkHivl62Y8ocg0ovKE03AlOLCyN5bqglMelGdtKhzZU46qySYkk58N&_nc_ohc=ViJ-XauR8kAQ7kNvwH5fhoo&_nc_oc=AdlBsD74C1XG8f6c95Kmti2s9SNdAOUZgSWnNOCHG4QtQr2XQnV4RWFreIdb5PDSewg&_nc_zt=23&_nc_ht=scontent.fuih1-1.fna&_nc_gid=O6kw147GADiaPq1R_52idQ&oh=00_Afl_hQEkTiAx5PnmX0UzfZ0K10Af_I_5Bzz4zPzZzCeBzw&oe=69348C84)?size=200" width="140" height="140" style="border-radius:50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px #00d4ff;" alt="avatar"/>
+<img src="?size=200" width="140" height="140" style="border-radius:50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px #00d4ff;" alt="avatar"/>
 
 <br><br>
 
